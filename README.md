@@ -31,9 +31,10 @@ Fake Data Generator | Faker + Selenium | Names, Emails, Countries, Addresses | P
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ouabiaga/fake-data-tool.git
-cd fake-data-tool
-
+  git clone https://github.com/ouabiaga/fake-data-tool.git
+  cd fake-data-tool
+```
 ### 2️⃣ Install Requirements
 ```bash
-pip install -r requirements.txt
+   install -r requirements.txt
+```
